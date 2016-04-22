@@ -1,4 +1,4 @@
-# hairy-octo-quiz
+# octo-quiz
 Otherwise known as the Github coding challenge for David Borin
 
 ###Initial Notes
